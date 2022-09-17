@@ -1,16 +1,15 @@
 # Humanoid Soccer Robot
-In latest years humanoid robots are developing surprisingly to reach the dream of
-international robotics committee which is hosting a soccer match between humans and
-robots. This project is a modularized software framework for use with soccer robot development and research. 
+During last few years, humanoid robots are developing surprisingly to reach the dream of the
+international robotics committee to have a match between humans and a team of robots.
 </br>
- In 2012 to 2016, the Parand team used this project as the robot source code in the RoboCup competitions. The development of this project has been done continuously for several years. This team
+From 2012 to 2016, the Team Parand gradually developed this project as it's base source code in the RoboCup competitions. This team
 was successful enough to gain several honors in international and world championships.
  </br></br>
  
  ## Developers
 | Name                                                | Email                                                     | Website                              |
 | -------------                                       | -------------                                             | -------------                        |
-| [Ahmad Amirivojdan](https://github.com/amirivojdan) | [amirivojdan@gmail.com](mailto:amirivojdan@gmail.com)     | [amirivojdan.com](http://www.amirivojdan.com)   |
+| [Ahmad Amirivojdan](https://github.com/amirivojdan) | [aamirivo@vols.utk.edu](mailto:aamirivo@vols.utk.edu)     | [amirivojdan.io](http://www.amirivojdan.io)   |
 | [Farzad Nadiri](https://github.com/farzadnadiri)    | [farzadnadiri7@gmail.com](mailto:farzadnadiri7@gmail.com) | [farzadnadiri.com](http://www.farzadnadiri.com) |
 </br>
 
@@ -22,7 +21,7 @@ https://user-images.githubusercontent.com/6237268/158478738-22409dc2-c38a-443d-8
 
 
 ## Vision and Head control Module
-Using this module, the robot is able to get information about its surroundings, its location on the field, and to detect where the ball and goal are. To implement high accuracy ball and goal detection, objects in the field are sampled and gathered in a color table, and then algorithms such as hough line detection and circle detection are used.
+Using this module, the robot is able to get information about its surroundings, its location on the field, and to detect where the ball and the goal are. To implement accurate ball and goal detection, objects in the field are sampled and gathered in a color table, and then algorithms such as hough line detection and circle detection are utilized.
 EmguCV (a cross-platform .Net wrapper to OpenCV image processing library) is used in this module to capture and process images at a rate of approximately 29 frames per second.
 HSV colour space is used rather than RGB colour space, “because the R, G, and B components of an object’s color in a digital image are all correlated with the amount of light hitting the object, and therefore with each other, image descriptions in terms of those components make object discrimination difficult. 
 Furthermore, in this module various algorithms such as PID controllers have been used to control the robot's head to search for the ball and track it.
