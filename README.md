@@ -1,4 +1,4 @@
-# Soccer-Robot
+# Humanoid Soccer Robot
 In latest years humanoid robots are developing surprisingly to reach the dream of
 international robotics committee which is hosting a soccer match between humans and
 robots. This project is a modularized software framework for use with soccer robot development and research. 
@@ -6,6 +6,14 @@ robots. This project is a modularized software framework for use with soccer rob
  In 2012 to 2016, the Parand team used this project as the robot source code in the RoboCup competitions. The development of this project has been done continuously for several years. This team
 was successful enough to gain several honors in international and world championships.
  </br></br>
+ 
+ ## Developers
+| Name                                                | Email                                                     | Website                              |
+| -------------                                       | -------------                                             | -------------                        |
+| [Ahmad Amirivojdan](https://github.com/amirivojdan) | [amirivojdan@gmail.com](mailto:amirivojdan@gmail.com)     | [amirivojdan.com](http://www.amirivojdan.com)   |
+| [Farzad Nadiri](https://github.com/farzadnadiri)    | [farzadnadiri7@gmail.com](mailto:farzadnadiri7@gmail.com) | [farzadnadiri.com](http://www.farzadnadiri.com) |
+
+
 ![wqqq3e](https://user-images.githubusercontent.com/6237268/158467668-2b5b3fe9-ddc3-4cd9-8a8f-0246c6ecec2f.jpg)
 
 
@@ -51,8 +59,3 @@ Since this robot must be able to follow the match autonomously a state machine f
 </br></br>
 ![Capture6](https://user-images.githubusercontent.com/6237268/158462129-3b655375-fea6-44f9-b415-b3dbcad165f8.PNG)
 </br></br>
-## Developers
-| Name                                                | Email                                                     | Website                              |
-| -------------                                       | -------------                                             | -------------                        |
-| [Ahmad Amirivojdan](https://github.com/amirivojdan) | [amirivojdan@gmail.com](mailto:amirivojdan@gmail.com)     | [amirivojdan.com](http://www.amirivojdan.com)   |
-| [Farzad Nadiri](https://github.com/farzadnadiri)    | [farzadnadiri7@gmail.com](mailto:farzadnadiri7@gmail.com) | [farzadnadiri.com](http://www.farzadnadiri.com) |
