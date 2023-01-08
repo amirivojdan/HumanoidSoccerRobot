@@ -10,7 +10,7 @@ was successful enough to gain several honors in international and world champion
 | Name                                                | Email                                                     | Website                              |
 | -------------                                       | -------------                                             | -------------                        |
 | [Ahmad Amirivojdan](https://github.com/amirivojdan) | [aamirivo@vols.utk.edu](mailto:aamirivo@vols.utk.edu)     | [amirivojdan.io](http://www.amirivojdan.io)   |
-| [Farzad Nadiri](https://github.com/farzadnadiri)    | [farzadnadiri7@gmail.com](mailto:farzadnadiri7@gmail.com) | [farzadnadiri.com](http://www.nadiri.io) |
+| [Farzad Nadiri](https://github.com/farzadnadiri)    | [farzadnadiri7@gmail.com](mailto:farzadnadiri7@gmail.com) | [farzadnadiri.io](http://www.nadiri.io) |
 </br>
 
 ![wqqq3e](https://user-images.githubusercontent.com/6237268/158467668-2b5b3fe9-ddc3-4cd9-8a8f-0246c6ecec2f.jpg)
